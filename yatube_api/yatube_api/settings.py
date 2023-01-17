@@ -19,7 +19,6 @@ INSTALLED_APPS = [
     'rest_framework',
     'django_filters',
     'djoser',
-    'rest_framework.authtoken',
     'api.apps.ApiConfig',
     'posts.apps.PostsConfig',
 ]
@@ -108,5 +107,3 @@ SIMPLE_JWT = {
     'ACCESS_TOKEN_LIFETIME': timedelta(days=1),
     'AUTH_HEADER_TYPES': ('Bearer',),
 }
-
-BLACKLIST_AFTER_ROTATION = False
