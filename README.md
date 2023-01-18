@@ -29,15 +29,15 @@ io/github/repo-size/26remph/api_final_yatube)
 ### Как запустить проект  
 - клонировать репозиторий и перейти в него в командной строке:  
 ```
-git clone https://github.com/yandex-praktikum/kittygram.git
-cd kittygram
+git clone https://github.com/Badmantegrow1/api_final_yatube.git
+cd api_final_yatube
 ```  
 
 
 - создать и активировать виртуальное окружение:  
 ```md
 python -m venv venv
-venv/Scripts/activate
+source venv/Scripts/activate
 ```
 - установить зависимости из файла requirements.txt:  
 ```
@@ -138,9 +138,9 @@ org/api-guide/filtering/#searchfilter)
 Konstantin Saraev,  
 студент 49 когорты,  
 Яндекс Практикум  
-:e-mail: badmantegrow1@gmail.com
+e-mail: badmantegrow2@yandex.ru
 
 
 <p>
-    <span>© 2023, Konstantin, Inc., temet nosce ツ </span>
+    <span>© 2023, Konstantin, Inc.,</span>
 </p>
